@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 
 Adding more data
 
+## New area
+
+This is a new area
+
