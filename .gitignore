@@ -1,2 +1,4 @@
 ignore.me
 human.txt
+*.orig
+simple*.*
